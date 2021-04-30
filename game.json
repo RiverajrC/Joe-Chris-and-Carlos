@@ -1,0 +1,462 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectUuid": "9eb70dd1-f6c1-43de-863e-2174ede1e1e1",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Project",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": false
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "../../../OneDrive/Elms 2021 - 2022/Elms Spring 2021/Game Design/Tiny Platformer - Hills Asset Pack/Tileset(16x16)/Tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\OneDrive\\Elms 2021 - 2022\\Elms Spring 2021\\Game Design\\Tiny Platformer - Hills Asset Pack\\Tileset(16x16)\\Tileset.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background layer 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background layer 01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background layer 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background layer 02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background layer 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background layer 03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background layer 032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background layer 032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background layer 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background layer 04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tile 12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tile 122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 122.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tile 123.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 123.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spike A.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spike A.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spike A1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spike A1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA1-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA1-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA1-1-0-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA1-1-0-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA1-1-0-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA1-1-0-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA1-1-0-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA1-1-0-1-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spike A2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spike A2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spikeA2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spikeA2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject7-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject7-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject7-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject7-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject7-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject7-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject7-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject7-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject7-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background_01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background_02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer_01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer_03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "background.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../OneDrive/Elms 2021 - 2022/Elms Spring 2021/Game Design/Tiny Platformer - Hills Asset Pack/Tiny Platformer - Forest Asset Pack/Tileset(16x16)/Tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\OneDrive\\Elms 2021 - 2022\\Elms Spring 2021\\Game Design\\Tiny Platformer - Hills Asset Pack\\Tiny Platformer - Forest Asset Pack\\Tileset(16x16)\\Tileset.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tile 12-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 12-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "spike A3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spike A3.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/new-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/new-scene2"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
