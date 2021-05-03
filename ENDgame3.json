@@ -1,0 +1,3114 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": false,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectUuid": "cd1f5662-0851-4ae8-86b6-ac000a076fde",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Project",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": false
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Sprites/Character 1/Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Sprites\\Character 1\\Idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/treee.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\treee.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/bush.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\bush.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/patch.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\patch.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/patch22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\patch22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/rock.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\rock.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/rock2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\rock2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Tileset(16x16)/Tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Tileset(16x16)\\Tileset.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\platform.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Idle/Bringer-of-Death_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Idle1cat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle1cat.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Idle2cat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle2cat.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Idle3cat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle3cat.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Idle4cat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle4cat.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/cage.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\cage.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Idle1frog.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle1frog.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Bringer-Of-Death/Individual Sprite/Death/Bringer-of-Death_Death_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/spikes.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\spikes.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/tile.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\tile.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/blue_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/blue_button01-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button01-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/blue_button01900.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button01900.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/blue_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button00.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/landwars.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\landwars.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/STARTfont.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\STARTfont.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/QUITgame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\QUITgame.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FinalGameENDGAME/Tiny Platformer - Hills Asset Pack/Background/Background layer 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 04.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Boss_32level",
+      "name": "Boss level",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 16,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 16,
+        "snap": false,
+        "windowMask": false,
+        "zoomFactor": 0.8700000000000003
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 576,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "persistentUuid": "97f8c25a-ea4a-448a-b157-d15f2f11e5cf",
+          "width": 803,
+          "x": -1,
+          "y": -2,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 486,
+          "layer": "",
+          "locked": false,
+          "name": "background2",
+          "persistentUuid": "94b73063-65a2-4fe5-9a0a-b4754894111c",
+          "width": 801,
+          "x": 0,
+          "y": 88,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 377,
+          "layer": "",
+          "locked": false,
+          "name": "background3",
+          "persistentUuid": "6d4b0e49-8046-4013-b25d-f9629f59b870",
+          "width": 798,
+          "x": 1,
+          "y": 201,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 282,
+          "layer": "",
+          "locked": false,
+          "name": "background4",
+          "persistentUuid": "298d4051-3264-4927-9c66-d45bc1ceb6b9",
+          "width": 797,
+          "x": 3,
+          "y": 318,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "treeeeee",
+          "persistentUuid": "c7388d15-4e5d-4def-a0ea-edebbb602165",
+          "width": 72,
+          "x": 213,
+          "y": 438,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 39,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "0c74f33a-1455-4c00-84ef-78d54ba33f1d",
+          "width": 64,
+          "x": 146,
+          "y": 308,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "patch",
+          "persistentUuid": "ffec953a-4697-4295-8d84-c29ad1e1af6e",
+          "width": 49,
+          "x": 192,
+          "y": 123,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 26,
+          "layer": "",
+          "locked": false,
+          "name": "patch22",
+          "persistentUuid": "f69a5555-d858-493f-898a-937bccf6d24b",
+          "width": 34,
+          "x": 134,
+          "y": 355,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 78,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "1b17629f-7382-4c5f-9645-a4aa9229747f",
+          "width": 150,
+          "x": 231,
+          "y": 531,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 68,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "2b5188d8-56ca-4d10-9616-7562eda4ebd9",
+          "width": 189,
+          "x": 114,
+          "y": 329,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 86,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "7a91d870-0ce7-4fc5-bd56-ec40839841a3",
+          "width": 375,
+          "x": 420,
+          "y": 101,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 68,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "41050b19-b2f1-4ca8-b940-14ba2a40d61d",
+          "width": 189,
+          "x": 437,
+          "y": 331,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 78,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "97c17901-29f8-4ce1-8bb7-cbb213d62d87",
+          "width": 150,
+          "x": 173,
+          "y": 156,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 78,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "35158084-d3a9-444d-b256-975941afb6f2",
+          "width": 150,
+          "x": 14.260869979858398,
+          "y": 36,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -1.4210854715202004e-14,
+          "customSize": true,
+          "height": 63,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "3ced61a4-b9d7-408f-92f0-fb6ebcc61ffd",
+          "width": 83,
+          "x": 327,
+          "y": 404,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 63,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "6ad79820-d35b-47d0-98bd-b03da14bdc8c",
+          "width": 83,
+          "x": 446,
+          "y": 194,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "patch22",
+          "persistentUuid": "80791a6a-ddbc-457f-8e1d-bb95ec2db9c9",
+          "width": 0,
+          "x": 509,
+          "y": 186,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "rock2",
+          "persistentUuid": "602c309e-4369-4e23-b4b1-be13e204fbb7",
+          "width": 0,
+          "x": 724,
+          "y": 96,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "rock",
+          "persistentUuid": "f608b7ec-920d-4b25-beaf-374e8af109b5",
+          "width": 0,
+          "x": 586,
+          "y": 327,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "rock2",
+          "persistentUuid": "946d7d20-ebba-429d-b513-927135ea8150",
+          "width": 0,
+          "x": 62,
+          "y": 18,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 27,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "12a467d8-0386-48da-a25f-d292960e7c05",
+          "width": 32,
+          "x": 367,
+          "y": 386,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cat",
+          "persistentUuid": "6e2c355a-ff5f-46e0-a755-21c8496a77f8",
+          "width": 0,
+          "x": 292,
+          "y": 496,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "rock",
+          "persistentUuid": "2f3b4ea4-7176-49d5-8424-a0306f3bc19a",
+          "width": 0,
+          "x": 562,
+          "y": 89,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "rock",
+          "persistentUuid": "7e1b00f7-63c7-4ed7-b74a-9e26d28edb4e",
+          "width": 0,
+          "x": 486,
+          "y": 181,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "froglegs",
+          "persistentUuid": "6cf43587-6b15-460d-b4d8-05bfbf7b9847",
+          "width": 0,
+          "x": 641,
+          "y": 69,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 98,
+          "layer": "",
+          "locked": false,
+          "name": "cage",
+          "persistentUuid": "f6a6db73-a79b-4048-9887-04cb79ae54cb",
+          "width": 68,
+          "x": 633,
+          "y": 11,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "death",
+          "persistentUuid": "2bda861f-2b45-4f3b-b6fd-9561a9583b7c",
+          "width": 0,
+          "x": 429,
+          "y": 17,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "patch22",
+          "persistentUuid": "cc99ab24-e35c-456e-8462-3d09b94a628b",
+          "width": 0,
+          "x": 281,
+          "y": 325,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "patch",
+          "persistentUuid": "754ad665-069d-494a-bf13-0398987202fd",
+          "width": 0,
+          "x": 696,
+          "y": 85,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "locked": false,
+          "name": "tile",
+          "persistentUuid": "1884d412-e928-491d-aeb1-1b63c8da8218",
+          "width": 155,
+          "x": 447,
+          "y": 511,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 37,
+          "layer": "",
+          "locked": false,
+          "name": "tile",
+          "persistentUuid": "c1756790-4215-4e56-b28b-5aa7fb5f2168",
+          "width": 72,
+          "x": 352,
+          "y": 272,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "tile",
+          "persistentUuid": "80edc003-5274-4a8f-82d6-46e11ace3154",
+          "width": 44,
+          "x": 316,
+          "y": 104,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "tile",
+          "persistentUuid": "76ca19da-39a1-4584-bcdc-e62d619cdf53",
+          "width": 0,
+          "x": 28,
+          "y": 222,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "9254d8b6-35a3-409a-a7e9-d1559f3cf633",
+          "width": 0,
+          "x": 656,
+          "y": 434,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "platform",
+          "persistentUuid": "d134a53a-23b0-45ba-8ae7-1ab6ec31a43f",
+          "width": 0,
+          "x": 7,
+          "y": 412,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 28,
+          "layer": "",
+          "locked": false,
+          "name": "tile",
+          "persistentUuid": "22a1a79f-5806-4672-9f96-34323d729920",
+          "width": 25,
+          "x": 154,
+          "y": 497,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "rock",
+          "persistentUuid": "2df4844c-9bec-483b-a8e9-fc38c15a3e51",
+          "width": 0,
+          "x": 352,
+          "y": 258,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 29,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "b02c6f39-a4c5-439d-a291-daece71babd0",
+          "width": 40,
+          "x": 678,
+          "y": 446,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 104,
+          "layer": "",
+          "locked": false,
+          "name": "treeeeee",
+          "persistentUuid": "2a37c047-9c71-4c45-af42-dd119192bad2",
+          "width": 69,
+          "x": 157,
+          "y": 239,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "Background",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "background2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "background3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "background4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\..\\Desktop\\FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "treeeeee",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\treee.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bush",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\bush.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "patch",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\patch.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "patch22",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\patch22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rock",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\rock.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rock2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\rock2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "platform",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\platform.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "death",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Idle\\Bringer-of-Death_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dying",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Bringer-Of-Death\\Individual Sprite\\Death\\Bringer-of-Death_Death_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "cat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle1cat.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle2cat.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle3cat.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle4cat.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "froglegs",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Idle1frog.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "cage",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\cage.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "spikes",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\spikes.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tile",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\tile.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 36,
+          "ambientLightColorG": 7379992,
+          "ambientLightColorR": 32,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "New_32scene2",
+      "name": "New scene2",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 599,
+          "layer": "",
+          "locked": false,
+          "name": "background",
+          "persistentUuid": "3969085f-ccfc-44d1-8f15-02ea442d69ea",
+          "width": 799,
+          "x": 1,
+          "y": 1,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Start_Btn",
+          "persistentUuid": "af6b26b2-4697-475d-be6c-9d1ae32d235c",
+          "width": 0,
+          "x": 296,
+          "y": 293,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 96,
+          "layer": "",
+          "locked": false,
+          "name": "Title",
+          "persistentUuid": "1eb0566b-fd11-402a-b2af-328eb4fa057d",
+          "width": 436,
+          "x": 181,
+          "y": 37,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "locked": false,
+          "name": "startFONT",
+          "persistentUuid": "0a4c8943-e1d1-4548-abdb-344fc29c113e",
+          "width": 117,
+          "x": 332,
+          "y": 300,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Quit_Btn",
+          "persistentUuid": "8c58220a-17e3-430a-9e3d-760d50c76f67",
+          "width": 0,
+          "x": 296,
+          "y": 393,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 35,
+          "layer": "",
+          "locked": false,
+          "name": "quitFONT",
+          "persistentUuid": "e2c733a1-61f5-4281-b1ea-24e44cf7297c",
+          "width": 156,
+          "x": 313,
+          "y": 400,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 479,
+          "layer": "",
+          "locked": false,
+          "name": "background2",
+          "persistentUuid": "19871e65-5a59-4e95-ac88-89ebaa292023",
+          "width": 801,
+          "x": -1,
+          "y": 115,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 377,
+          "layer": "",
+          "locked": false,
+          "name": "background3",
+          "persistentUuid": "6acbd922-7a77-4b55-84ab-a17734c10ea8",
+          "width": 800,
+          "x": 0,
+          "y": 222,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 258,
+          "layer": "",
+          "locked": false,
+          "name": "background4",
+          "persistentUuid": "fe368334-3aa6-49f1-b9a7-2a6d1d1bdf81",
+          "width": 799,
+          "x": 1,
+          "y": 341,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "background",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "background2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "background3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "background4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\Background layer 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Start_Btn",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "blue_button00",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button00.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "blue_button01",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Title",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\landwars.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "startFONT",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\STARTfont.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quit_Btn",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button00.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\blue_button01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "quitFONT",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "FinalGameENDGAME\\Tiny Platformer - Hills Asset Pack\\Background\\QUITgame.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_Btn",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Start_Btn",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_Btn",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Boss level\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_Btn",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Start_Btn",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Quit_Btn",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Quit_Btn",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Quit_Btn",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Quit_Btn",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Quit_Btn",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 7880440,
+          "ambientLightColorG": 7866456,
+          "ambientLightColorR": 7444128,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
